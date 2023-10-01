@@ -4,9 +4,10 @@
     "\\client",
     "\\client\\src",
     "\\client\\src\\app",
+    "\\NewFolder",
     "\\server",
-    "\\server (2)"
+    "\\server\\src"
   ],
-  "SelectedNode": "\\server (2)",
+  "SelectedNode": "\\server\\src\\server.ts",
   "PreviewInSolutionExplorer": false
 }
